@@ -1,4 +1,4 @@
-# Hello beautiful peeps, I’m Cat!
+# Hello Beautiful Peeps, I’m Cat!
 
 I’m Cat (Caitlin) Millwood, and I study Computer Science (B.A.) at the University of Arkansas.
 
