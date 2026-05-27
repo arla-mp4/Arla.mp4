@@ -13,14 +13,12 @@ I’m also minoring in Psychology, Sociology, and Criminology because I’m inte
 I work as a Computer Support Tech (WS/Hourly) in the EECS Help Shop.
 
 My day usually looks like:
-
 - something stops working
 - I take a look and say “hmm”
 - I investigate
 - I fix it, or it fixes itself out of spite
 
 Outside of that, I spend time on:
-
 - systems optimization
 - software development
 - data analysis
